@@ -1,0 +1,18 @@
+C:\Users\marce\Documents\GitHub\ProjetoAniversarioClientes\Aniversário Clientes\Aniversário Clientes\bin\Debug\net8.0-windows\Aniversário Clientes.exe
+C:\Users\marce\Documents\GitHub\ProjetoAniversarioClientes\Aniversário Clientes\Aniversário Clientes\bin\Debug\net8.0-windows\Aniversário Clientes.deps.json
+C:\Users\marce\Documents\GitHub\ProjetoAniversarioClientes\Aniversário Clientes\Aniversário Clientes\bin\Debug\net8.0-windows\Aniversário Clientes.runtimeconfig.json
+C:\Users\marce\Documents\GitHub\ProjetoAniversarioClientes\Aniversário Clientes\Aniversário Clientes\bin\Debug\net8.0-windows\Aniversário Clientes.dll
+C:\Users\marce\Documents\GitHub\ProjetoAniversarioClientes\Aniversário Clientes\Aniversário Clientes\bin\Debug\net8.0-windows\Aniversário Clientes.pdb
+C:\Users\marce\Documents\GitHub\ProjetoAniversarioClientes\Aniversário Clientes\Aniversário Clientes\obj\Debug\net8.0-windows\Aniversário_Clientes.Form1.resources
+C:\Users\marce\Documents\GitHub\ProjetoAniversarioClientes\Aniversário Clientes\Aniversário Clientes\obj\Debug\net8.0-windows\Aniversário Clientes.csproj.GenerateResource.cache
+C:\Users\marce\Documents\GitHub\ProjetoAniversarioClientes\Aniversário Clientes\Aniversário Clientes\obj\Debug\net8.0-windows\Aniversário Clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Documents\GitHub\ProjetoAniversarioClientes\Aniversário Clientes\Aniversário Clientes\obj\Debug\net8.0-windows\Aniversário Clientes.AssemblyInfoInputs.cache
+C:\Users\marce\Documents\GitHub\ProjetoAniversarioClientes\Aniversário Clientes\Aniversário Clientes\obj\Debug\net8.0-windows\Aniversário Clientes.AssemblyInfo.cs
+C:\Users\marce\Documents\GitHub\ProjetoAniversarioClientes\Aniversário Clientes\Aniversário Clientes\obj\Debug\net8.0-windows\Aniversário Clientes.csproj.CoreCompileInputs.cache
+C:\Users\marce\Documents\GitHub\ProjetoAniversarioClientes\Aniversário Clientes\Aniversário Clientes\obj\Debug\net8.0-windows\Aniversário Clientes.sourcelink.json
+C:\Users\marce\Documents\GitHub\ProjetoAniversarioClientes\Aniversário Clientes\Aniversário Clientes\obj\Debug\net8.0-windows\Aniversário Clientes.dll
+C:\Users\marce\Documents\GitHub\ProjetoAniversarioClientes\Aniversário Clientes\Aniversário Clientes\obj\Debug\net8.0-windows\refint\Aniversário Clientes.dll
+C:\Users\marce\Documents\GitHub\ProjetoAniversarioClientes\Aniversário Clientes\Aniversário Clientes\obj\Debug\net8.0-windows\Aniversário Clientes.pdb
+C:\Users\marce\Documents\GitHub\ProjetoAniversarioClientes\Aniversário Clientes\Aniversário Clientes\obj\Debug\net8.0-windows\Aniversário Clientes.genruntimeconfig.cache
+C:\Users\marce\Documents\GitHub\ProjetoAniversarioClientes\Aniversário Clientes\Aniversário Clientes\obj\Debug\net8.0-windows\ref\Aniversário Clientes.dll
+C:\Users\marce\Documents\GitHub\ProjetoAniversarioClientes\Aniversário Clientes\Aniversário Clientes\obj\Debug\net8.0-windows\Aniversário_Clientes.Form2.resources
